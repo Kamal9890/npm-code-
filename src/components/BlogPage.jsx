@@ -10,7 +10,7 @@ const blogPosts = [
     title: 'PLAYING WITH PATTERNS',
     date: 'Apr 21, 2023',
     readTime: '1 min',
-    image: './assets/design for life', // replace with actual image path
+    image: 'src/assets/design for life.jpg', // replace with actual image path
     description: 'Create a blog post blurb that summarizes your post in a few short, punchy sentences and entices your audience to continue reading...',
   },
   {
@@ -18,7 +18,7 @@ const blogPosts = [
     title: 'NATALIA\'S APARTMENT MAKEOVER',
     date: 'Apr 21, 2023',
     readTime: '2 min',
-    image: 'path-to-image-2.jpg', // replace with actual image path
+    image: 'src/assets/design for life.jpg', // replace with actual image path
     description: 'Create a blog post blurb that summarizes your post in a few short, punchy sentences and entices your audience to continue reading...',
   },
 ];
